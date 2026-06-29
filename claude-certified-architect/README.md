@@ -11,6 +11,7 @@ The certification covers five domains: Agentic Architecture & Orchestration (27%
 ├── Claude Certified Architect.pdf          # Official exam guide
 ├── Topic1_Agentic_Apps_Agent_SDK/          # Topic 1 — Domain 1
 │   ├── Agentic_Apps_Claude_Agent_SDK.pptx  # 36-slide deck (speaker notes embedded)
+│   ├── Agentic_Apps_Claude_Agent_SDK.pdf   # PDF export of the deck (view on GitHub)
 │   ├── Session_Notes_Facilitator_Guide.md  # Run-of-show, talking points, Q&A bank
 │   ├── MCQ_Practice_Set.md                 # 15 exam-style questions + rationale
 │   ├── Reference_Links.md                  # Annotated official + community sources
