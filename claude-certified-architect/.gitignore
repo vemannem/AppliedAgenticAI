@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets / env
+.env
+.env.*
+*.key
+secrets.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Build / QA scratch
+_qa/
+_qa2/
+build/
+dist/
+*.tmp
+
+# Local rendering artifacts (regenerated from source)
+slide-*.jpg
+v2slide-*.jpg
+*.pdf.tmp
+
+# Confidential — Anthropic NTK exam guide (keep local, never push)
+Claude Certified Architect.pdf
