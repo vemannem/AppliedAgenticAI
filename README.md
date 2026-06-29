@@ -15,6 +15,12 @@ Real use cases, trade-offs, and step-by-step implementation of the three core re
 | [`RAG_GraphRAG_Hybrid_handson.ipynb`](sessions/rag-vs-graphrag-vs-hybrid/RAG_GraphRAG_Hybrid_handson.ipynb) | Colab notebook — builds all three from scratch |
 | [`RAG_GraphRAG_Hybrid_session_notes.md`](sessions/rag-vs-graphrag-vs-hybrid/RAG_GraphRAG_Hybrid_session_notes.md) | Written session notes & references |
 
+**Session Recording:**
+| Platform | Link |
+|---|---|
+| Google Drive | [Watch on Google Drive](https://drive.google.com/file/d/1QSTpNBwlLSLKXTGqFYNPmPMRiKSRp9K9/view?usp=sharing) |
+| Zoom | [Watch on Zoom](https://us06web.zoom.us/rec/share/QaXVPjEjo2fxHqgPeOca-3B8wO9bweK0FVlp87s25a4J9RgkTzqleFiXNC8qdIlX.59vEzA_RRceqER4Y) *(Passcode: `P*um6AE^`)* |
+
 **Run the notebook in Colab:** open [colab.research.google.com](https://colab.research.google.com) → *File → Upload notebook* → pick the `.ipynb`. You only need an LLM API key.
 
 **Covered:** the RAG premise · Traditional (vector) RAG · where naive RAG breaks · Graph RAG (knowledge graphs, local vs global search) · the hybrid router · a decision framework · real use cases · pitfalls & best practices.
